@@ -16,12 +16,11 @@ Algoritmo calculadora_simple
 		"resta" :
 			Imprimir "Resultado: " primerNumero - segundoNumero
 		"multiplicación" :
-			Imprimir "Resultado" primerNumero * segundoNumero
+			Imprimir "Resultado: " primerNumero * segundoNumero
 		"division" :
-			Imprimir "Resultado" primerNumero / segundoNumero
+			Imprimir "Resultado: " primerNumero / segundoNumero
 		De Otro Modo:
 			Escribir "Operacion No Valida"
 	FinSegun
 FinAlgoritmo
-
 ```
